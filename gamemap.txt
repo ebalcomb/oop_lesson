@@ -1,0 +1,24 @@
+TTSSTRTRRTT
+..T.....TBT
+T.T.TTR.T.S
+T...R..X..T
+T.TST.RTSSR
+TBT.OY..TKR
+TTT.TTT.T.T
+R..L..T..GR
+T.TSRTTTSRR
+T....H....C
+TTTRTSTTRST
+
+T = TallTree
+S = ShortTree
+C = Chest
+K = Key
+G = GreenGem
+B = BlueGem
+O = OrangeGem
+R = Rock
+X = DoorClosed
+H = Heart
+L = Girl
+Y = Boy
